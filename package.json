@@ -1,0 +1,20 @@
+{
+  "name": "feat-create-namespace-test",
+  "packageManager": "pnpm@10.6.5",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "cjs-types-mixed-declarations-fixture": "file:cjs-types-mixed-declarations-fixture-0.0.0.tgz"
+  }
+}
